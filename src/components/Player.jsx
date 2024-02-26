@@ -27,9 +27,6 @@ const Player = ({initialName,symbol,isActive, onChangeName}) => {
                 <button onClick={handleEditClick}>{isEditing? 'Save' : 'Edit'}</button>
             </li>
         )
-    return (
-        <input/>
-    );
 };
 
 export default Player;
