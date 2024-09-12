@@ -368,15 +368,11 @@ ol {
   #players button{
     width: 6rem;
   }
-  #game-board button {
-    width: 4rem;
-    height: 4rem;
-    border: none;
-    background: #aca788;
-    color: #3f3b00;
-    font-size: 5rem;
-    cursor: pointer;
-    font-family: 'Caprasimo', cursive;
-    padding: 0;
-  }
+    #game-board button {
+      width: 4rem;
+      height: 4rem;
+      font-size: 4rem;
+      padding: 0;
+    }
 }
+
